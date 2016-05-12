@@ -1,1 +1,1 @@
-FROM postgres-backup-s3
+FROM schickling/postgres-backup-s3
